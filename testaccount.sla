@@ -1,0 +1,45 @@
+{
+    "class_id": "com-snaplogic-snaps-ad-adbasicauth",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "GameStop-UAT"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "testaccount"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "domainName": {
+                "value": "afdafaf"
+            },
+            "password": {
+                "fp": "6ee40d1e21a042b84c93f31348de32046e6f45aedc1a8432b9375a3a41069cc7",
+                "key": "account-cloud-managed-57632b6129eb6f36258be7e4-2016-06-16T22:43:28-697343",
+                "sym_iv": "wIpmZR9YlM06+mATF+r5PA==",
+                "sym_key": "FcQ2R7e/ktvRwjXqbYdUYAgSy8Gx4QNnBdGq5hiBuIUHpnQhCrdNLJcfnhsChn0lm2IwjvR1pgL3Ej72bmAwwKJDMABRblV/3CAb2vIryW4cIo8BbEgVjilG7W6KtTcmVoFQohHV0gzTTuJtiVSHg10CLfUEIl4ln0+LdWS13uvI0sQaDGp9hvgCEQD6AH/lFXKZOd+z5s2pU2t8IXKuDDWY+9viQx8Xuzpkumoetf5bucevJJxNsMTkO5O9zJ6DKCdoJW18oC5MS+ovq0SqVjgcZZG29s1cphK9QcKAJ47I3xp/HoFs1KxV6sKjqVqo+uFf6TR7mgBNCN+JIWJl7A==",
+                "value": "IlnmVu7g8Nkoq3RlWoBOIg=="
+            },
+            "port": {
+                "value": 389
+            },
+            "referral": {
+                "value": "Automatically follow any referrals"
+            },
+            "serverUri": {
+                "value": "ldap://some_ldap_hostname.com"
+            },
+            "trustAllCerts": {
+                "value": false
+            },
+            "username": {
+                "value": "afdfaf"
+            }
+        },
+        "view_serial": 100
+    }
+}

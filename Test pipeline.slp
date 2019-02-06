@@ -224,7 +224,7 @@
                                             "value": "$test"
                                         },
                                         "targetPath": {
-                                            "value": "$testlfalkfjalj"
+                                            "value": "$test_second_again"
                                         }
                                     }
                                 ]
